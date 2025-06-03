@@ -40,5 +40,5 @@ Java • C++ • Multithreading | Implemented a STOMP 1.2 server (TPC & Reactor)
 
 ## 📫 Let’s Connect
 
-- 🔗 [LinkedIn]  
+- 🔗 [LinkedIn] (https://www.linkedin.com/in/nitzan-mor-700964362/)
 - 📧 moorenizan@gmail.com
