@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Moore Nitzan
+# 👋 Hi, I’m Nitzan Mor
 
 🎓 **Second-year CS & Psychology double-major** at Ben-Gurion University of the Negev  
 💼 Aspiring software developer with a passion for human-centered tech
