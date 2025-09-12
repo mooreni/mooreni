@@ -1,11 +1,11 @@
 # 👋 Hi, I’m Nitzan Mor
 
-🎓 **Second-year CS & Psychology double-major** at Ben-Gurion University of the Negev  
-💼 Aspiring software developer with a passion for human-centered tech
+**Third-year CS & Psychology double-major** at Ben-Gurion University of the Negev  
+Aspiring software developer with a passion for human-centered tech
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 - **Languages:** Python · Java · C++ · SQL  
 - **Frameworks & Tools:** SQLite · Docker · Git · Maven · Linux 
@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [Mart Inventory Manager](https://github.com/mooreni/Mart-Inventory-Manager.git)
 Python • SQLite | Built a multi-branch inventory & sales tracker with configuration-driven schema setup, atomic transaction processing, and automated reporting.
@@ -29,7 +29,7 @@ Java • C++ • Multithreading | Implemented a STOMP 1.2 server (TPC & Reactor)
 
 ---
 
-## 📚 Education & Leadership
+## Education & Leadership
 
 - **B.Sc. Computer Science & Psychology**, Ben-Gurion University (’23–present)  
   – Relevant coursework: Algorithms, Systems Programming (100), Data Structures, Social Psychology, Regression & Multivariate Analysis  
@@ -38,7 +38,7 @@ Java • C++ • Multithreading | Implemented a STOMP 1.2 server (TPC & Reactor)
 
 ---
 
-## 📫 Let’s Connect
+## Let’s Connect
 
-- 🔗 [LinkedIn] (https://www.linkedin.com/in/nitzan-mor-700964362/)
-- 📧 moorenizan@gmail.com
+- [LinkedIn] (https://www.linkedin.com/in/nitzan-mor-700964362/)
+- moorenizan@gmail.com
