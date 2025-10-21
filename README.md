@@ -34,7 +34,7 @@ Java • C++ • Multithreading | Implemented a STOMP 1.2 server (TPC & Reactor)
 - **B.Sc. Computer Science & Psychology**, Ben-Gurion University (’23–present)  
   – Relevant coursework: Algorithms, Systems Programming (100), Data Structures, Social Psychology, Regression & Multivariate Analysis  
 - **Mechinat Derech Eretz**, Pre-Military Guide – Mentored 45 high-school graduates in leadership, resilience, and group dynamics  
-- **IDF Combat Engineering**, Platoon Sergeant – Led operational teams, instructed command courses, 200+ reserve days since Oct 2023
+- **IDF Combat Engineering**, Platoon Sergeant – Led operational teams, instructed command courses, 250+ reserve days since Oct 2023
 
 ---
 
