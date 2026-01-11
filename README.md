@@ -15,17 +15,17 @@ Aspiring software developer with a passion for human-centered tech
 
 ## Featured Projects
 
-### [Mart Inventory Manager](https://github.com/mooreni/Mart-Inventory-Manager.git)
-Python • SQLite | Built a multi-branch inventory & sales tracker with configuration-driven schema setup, atomic transaction processing, and automated reporting.
-
-### [Reconstruction Simulation Engine](https://github.com/mooreni/Reconstruction-Simulation-Engine.git)  
-C++ • OOP | Engineered a modular simulation framework with customizable selection policies, Rule-of-Five memory safety, and command-line control for planning “reconstruction” scenarios.
-
 ### [SLAM Microservices](https://github.com/mooreni/GurionRock-SLAM-Microservices.git)  
 Java • Concurrency | Developed a STOMP-style microservices framework and a perception-mapping system integrating camera, LiDAR, IMU/GPS streams to produce real-time landmark maps.
 
 ### [Emergency Messaging Informer](https://github.com/mooreni/Emergency-Messaging-Informer.git)  
 Java • C++ • Multithreading | Implemented a STOMP 1.2 server (TPC & Reactor) and a multithreaded C++ client for pub/sub emergency reporting with JSON-driven commands and graceful shutdown.
+
+### [Mart Inventory Manager](https://github.com/mooreni/Mart-Inventory-Manager.git)
+Python • SQLite | Built a multi-branch inventory & sales tracker with configuration-driven schema setup, atomic transaction processing, and automated reporting.
+
+### [Reconstruction Simulation Engine](https://github.com/mooreni/Reconstruction-Simulation-Engine.git)  
+C++ • OOP | Engineered a modular simulation framework with customizable selection policies, Rule-of-Five memory safety, and command-line control for planning “reconstruction” scenarios.
 
 ---
 
