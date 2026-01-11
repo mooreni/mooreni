@@ -13,7 +13,7 @@ Aspiring software developer with a passion for human-centered tech
 
 ---
 
-## Featured Projects
+## Featured Projects (I've done much more in my internship as a R&D Engineer but can't show it here - contact me if you want to here more! :wink:)
 
 ### [SLAM Microservices](https://github.com/mooreni/GurionRock-SLAM-Microservices.git)  
 Java • Concurrency | Developed a STOMP-style microservices framework and a perception-mapping system integrating camera, LiDAR, IMU/GPS streams to produce real-time landmark maps.
