@@ -7,7 +7,7 @@ Aspiring software developer with a passion for human-centered tech
 
 ## Technical Skills
 
-- **Languages:** Python · Java · C++ · SQL  
+- **Languages:** Python · Java · C++
 - **Frameworks & Tools:** SQL · Docker · Git ·  Cursor · n8n
 - **Concepts:** OOP · Concurrency & Synchronization · Microservices · Database design
 
