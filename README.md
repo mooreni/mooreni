@@ -15,7 +15,7 @@ Aspiring software developer with a passion for human-centered tech
 
 ## Featured Projects (I've done much more in my internship as a R&D Engineer but can't show it here - contact me if you want to hear more! :wink:)
 
-### [Search Engine](https://github.com/mooreni/CourseLLM-Firebase.git)
+### [Search Engine](https://github.com/alonganot10/CourseLLM-Firebase.git)
 RAG • BM25 | Built a Python FastAPI search service using BM25 & RAG (Retrieval Augmented Generation), with Gemini AI logic.
 
 ### [SLAM Microservices](https://github.com/mooreni/GurionRock-SLAM-Microservices.git)  
